@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Data and archives
+archive*/
+data/
+archive (6)/
+
+# Model checkpoints and large binaries
+model/checkpoints/
+*.h5
+*.keras
+*.pt
+
+# OS files
+.DS_Store
