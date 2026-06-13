@@ -109,3 +109,5 @@ pytest tests/ -v
 ## License
 
 Food-101 dataset terms apply when downloading from Kaggle. See the original [Food-101 paper](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) for citation details.
+
+[Large folders like archive (6)/, data, and checkpoints are ignored to avoid uploading huge files.]
